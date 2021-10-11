@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = NetCoreHello
+build_property.ProjectDir = /Users/dev/projects/net-core-hello/NetCoreHello/
